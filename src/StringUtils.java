@@ -19,6 +19,8 @@ public class StringUtils {
          */
         if(res.length() > 8) {
 
+
+            //
             res = res.substring(0, 8);
         }
         /* Convert the name to lower-case
